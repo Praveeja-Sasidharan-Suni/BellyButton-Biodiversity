@@ -43,9 +43,9 @@ Software: VS Code, Javascript (ECMAScript 6), Plotly, Bootstrap, d3, HTML
 ### Deliverable4
 
 * Customized my dashboard with three of the following:
-- Added an image to the jumbotron.
-- Added background color or a variety of compatible colors to the webpage.
-- Used a custom font with contrast for the colors.
+1.Added an image to the jumbotron.
+2.Added background color or a variety of compatible colors to the webpage.
+3.Used a custom font with contrast for the colors.
 
 * When the dashboard is first opened in a browser, ID 940’s data is displayed in the dashboard, and all three charts are working according to the requirements when a sample 
 is selected from the dropdown menu.
