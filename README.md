@@ -50,7 +50,7 @@ Software: VS Code, Javascript (ECMAScript 6), Plotly, Bootstrap, d3, HTML
 * When the dashboard is first opened in a browser, ID 940’s data is displayed in the dashboard, and all three charts are working according to the requirements when a sample 
 is selected from the dropdown menu.
 
-!(page-updated.PNG)[https://github.com/Praveeja-Sasidharan-Suni/BellyButton-Biodiversity/blob/main/images/page-updated.PNG?raw=true]
+![page-updated.PNG](https://github.com/Praveeja-Sasidharan-Suni/BellyButton-Biodiversity/blob/main/images/page-updated.PNG?raw=true)
 
 * A README.md file is also added.
 
